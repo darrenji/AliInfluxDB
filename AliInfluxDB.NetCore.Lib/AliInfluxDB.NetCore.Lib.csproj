@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+    <Authors>DarrenJi</Authors>
+    <Company>DarrenCloud</Company>
+    <Product>AliInfluxDB.NetCore</Product>
+    <Description>.NET Core下对接阿里云InflusDB时序数据库</Description>
+  </PropertyGroup>
+
+</Project>
